@@ -1,0 +1,1 @@
+module.exports = require("bower:webcomponentsjs@0.7.22/webcomponents");
